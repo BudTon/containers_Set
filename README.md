@@ -10,7 +10,7 @@
 
 ## `Set`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/cnf3e6s44xkj07o4?svg=true)](https://ci.appveyor.com/project/BudTon/containers-set)
 
 ### Легенда
 
